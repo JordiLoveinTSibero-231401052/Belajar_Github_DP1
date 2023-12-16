@@ -1,7 +1,7 @@
 program UasLabPimnas;
 
 uses
-  Character;
+  Crt;
 
 var
   teksInput: string;
